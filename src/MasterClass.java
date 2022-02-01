@@ -6,5 +6,8 @@ public class MasterClass {
 		
 	}
 	String cadena=null;
+	public static void main() {
+		// es un atributo
+	}
 
 }
