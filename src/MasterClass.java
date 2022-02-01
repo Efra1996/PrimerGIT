@@ -5,6 +5,6 @@ public class MasterClass {
 		
 		
 	}
-	String cadena;
+	String cadena=null;
 
 }
