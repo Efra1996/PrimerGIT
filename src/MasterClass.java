@@ -5,6 +5,6 @@ public class MasterClass {
 		
 		
 	}
-	String cadena=null;
+	String cadena=null;//Atributo de tipo cadena
 
 }
