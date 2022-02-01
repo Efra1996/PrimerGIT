@@ -5,5 +5,6 @@ public class MasterClass {
 		
 		
 	}
+	String cadena;
 
 }
